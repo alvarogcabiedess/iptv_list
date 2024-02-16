@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="https.//raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1280px-DAZN_F1_logo.svg.png" gruop-title="Carreras" tvg-id="DAZN F1", DAZN F1
+acestream://5789ca155323664edd293b848606688edf803f4d
